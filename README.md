@@ -164,4 +164,4 @@ npx hardhat newcircuit --name newcircuit
 - **LinkedIn**: [https://www.linkedin.com/in/harmandeep-87032918b/](https://www.linkedin.com/in/harmandeep-87032918b/)
 
 ## License
-[License](/LISENCE.txt)
+[License](/license.txt)
